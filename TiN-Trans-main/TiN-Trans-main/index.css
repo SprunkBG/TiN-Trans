@@ -18,7 +18,7 @@ body {
     margin-bottom: 30px;
   }  
   .jumbotron {
-    background-color: #120f73;
+    background-color: #006600;
     color: #fff;
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
@@ -33,11 +33,11 @@ body {
     background-color: #f6f6f6;
   }
   .logo-small {
-    color: #120f73;
+    color: #006600;
     font-size: 50px;
   }
   .logo {
-    color: #120f73;
+    color: #006600;
     font-size: 200px;
   }
   .thumbnail {
@@ -52,13 +52,13 @@ body {
   }
   .carousel-control.right, .carousel-control.left {
     background-image: none;
-    color: #120f73;
+    color: #006600;
   }
   .carousel-indicators li {
-    border-color: #120f73;
+    border-color: #006600;
   }
   .carousel-indicators li.active {
-    background-color: #120f73;
+    background-color: #006600;
   }
   .item h4 {
     font-size: 19px;
@@ -71,7 +71,7 @@ body {
     font-style: normal;
   }
   .panel {
-    border: 1px solid #120f73; 
+    border: 1px solid #006600; 
     border-radius:0;
     transition: box-shadow 0.5s;
   }
@@ -79,14 +79,14 @@ body {
     box-shadow: 5px 0px 40px rgba(0,0,0, .2);
   }
   .panel-footer .btn:hover {
-    border: 1px solid #120f73;
+    border: 1px solid #006600;
     background-color: #fff;
-    color: #120f73;
+    color: #006600;
   }
 
   .panel-heading {
     color: #fff;
-    background-color: #120f73;
+    background-color: #006600;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
@@ -106,12 +106,12 @@ body {
   }
   .panel-footer .btn {
     margin: 15px 0;
-    background-color: #120f73;
+    background-color: #006600;
     color: #fff;
   }
   .navbar {
     margin-bottom: 0;
-    background-color: #120f73;
+    background-color: #006600;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -125,7 +125,7 @@ body {
   }
   
   .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #120f73 !important;
+    color: #006600 !important;
     background-color: #fff !important;
   }
   
@@ -136,7 +136,7 @@ body {
   footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
-    color: #120f73;
+    color: #006600;
   }
   .slideanim {visibility:hidden;}
   .slide {
